@@ -1,1 +1,1 @@
-https://github.com/kamis2020/ono-tebe-nado-fd
+https://github.com/kamis2020/ono-tebe-nado.git
